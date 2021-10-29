@@ -1,0 +1,3 @@
+/Users/andreaoriolo/Desktop/Lab6/Build/CMakeFiles/rebuild_cache.dir
+/Users/andreaoriolo/Desktop/Lab6/Build/CMakeFiles/edit_cache.dir
+/Users/andreaoriolo/Desktop/Lab6/Build/CMakeFiles/main.dir
